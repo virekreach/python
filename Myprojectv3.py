@@ -1,7 +1,7 @@
 import os
 import pickle
 import time
-# hellloooo fdsafadsfjdsalfj 
+# ah ploak reach
 # --- Color Functions ---
 def reset():
     print("\033[0m", end='')
